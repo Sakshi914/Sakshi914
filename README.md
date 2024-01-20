@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakshi914
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning Second year Computer Engineering
+- 🌱 I’m currently learning Third year Computer Engineering
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me : sakshiadhikari1920@gmail.com
 
